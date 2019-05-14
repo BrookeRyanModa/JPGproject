@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3ae3c97-1c59-4653-81f0-1692b37c0280" name="Default Changelist" comment="" />
+    <list default="true" id="a3ae3c97-1c59-4653-81f0-1692b37c0280" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/J{G/.gitignore" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +60,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/J{G/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="2095" />
     <option name="y" value="36" />
@@ -81,7 +88,7 @@
             <path>
               <item name="JPGproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="JPGproject" type="462c0819:PsiDirectoryNode" />
-              <item name="JPGproject" type="462c0819:PsiDirectoryNode" />
+              <item name="J{G" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -107,6 +114,7 @@
       </list>
     </option>
   </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -118,15 +126,15 @@
       <option name="presentableId" value="Default" />
       <updated>1557862749648</updated>
       <workItem from="1557862750833" duration="1328000" />
-      <workItem from="1557868938500" duration="73000" />
+      <workItem from="1557868938500" duration="568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1401000" />
+    <option name="totallyTimeSpent" value="1896000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2095" y="36" width="1786" height="1044" extended-state="1" />
+    <frame x="2095" y="36" width="1786" height="1044" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25286698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
