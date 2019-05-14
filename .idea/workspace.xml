@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="a3ae3c97-1c59-4653-81f0-1692b37c0280" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/J{G/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J{G/.ruby-version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J{G/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J{G/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J{G/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J{G/Rakefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J{G/config.ru" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/J{G/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +70,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/J{G/package.json" />
+      <path value="$PROJECT_DIR$/Slices/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
@@ -89,6 +97,19 @@
               <item name="JPGproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="JPGproject" type="462c0819:PsiDirectoryNode" />
               <item name="J{G" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPGproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPGproject" type="462c0819:PsiDirectoryNode" />
+              <item name="J{G" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPGproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPGproject" type="462c0819:PsiDirectoryNode" />
+              <item name="J{G" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -127,12 +148,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557862749648</updated>
       <workItem from="1557862750833" duration="1328000" />
-      <workItem from="1557868938500" duration="568000" />
+      <workItem from="1557868938500" duration="1021000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1896000" />
+    <option name="totallyTimeSpent" value="2349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2095" y="36" width="1786" height="1044" extended-state="0" />
@@ -163,6 +184,9 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/JPGproject/Gemfile" />
