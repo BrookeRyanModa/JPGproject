@@ -2,20 +2,116 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3ae3c97-1c59-4653-81f0-1692b37c0280" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/J{G/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/J{G/.ruby-version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/J{G/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/J{G/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/J{G/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/J{G/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/J{G/config.ru" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/J{G/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/.ruby-version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Rakefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/assets/config/manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/assets/images/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/assets/javascripts/application.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/assets/javascripts/cable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/assets/javascripts/channels/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/assets/stylesheets/application.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/channels/application_cable/channel.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/channels/application_cable/connection.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/controllers/application_controller.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/controllers/concerns/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/controllers/slices_controller.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/helpers/application_helper.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/jobs/application_job.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/mailers/application_mailer.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/models/application_record.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/models/concerns/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/views/layouts/application.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/views/layouts/mailer.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/views/layouts/mailer.text.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/views/slices/new.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/app/views/slices/show.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/bundle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/rails" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/rake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/spring" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/update" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/yarn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config.ru" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/application.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/boot.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/cable.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/credentials.yml.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/database.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/environment.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/environments/development.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/environments/production.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/environments/test.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/initializers/application_controller_renderer.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/initializers/assets.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/initializers/backtrace_silencers.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/initializers/content_security_policy.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/initializers/cookies_serializer.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/initializers/filter_parameter_logging.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/initializers/inflections.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/initializers/mime_types.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/initializers/wrap_parameters.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/locales/en.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/puma.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/routes.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/spring.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/config/storage.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/db/seeds.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/lib/assets/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/lib/tasks/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/log/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/public/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/public/422.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/public/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/public/apple-touch-icon-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/public/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/storage/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/test/application_system_test_case.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/test/controllers/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/test/fixtures/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/test/fixtures/files/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/test/helpers/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/test/integration/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/test/mailers/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/test/models/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/test/system/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/test/test_helper.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/tmp/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/vendor/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slices/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Slices/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slices/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Slices/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slices/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/Slices/app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slices/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Slices/config/application.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1143203799">
@@ -28,36 +124,150 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Gemfile" value="1" />
+          <entry key="Gemfile" value="3" />
+          <entry key="Rakefile" value="1" />
+          <entry key="erb" value="16" />
+          <entry key="html" value="1" />
+          <entry key="json" value="1" />
+          <entry key="lock" value="2" />
+          <entry key="rails" value="1" />
+          <entry key="rake" value="1" />
+          <entry key="rb" value="41" />
+          <entry key="ru" value="1" />
+          <entry key="ruby-version" value="1" />
+          <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Ruby" value="1" />
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="1" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="RHTML" value="16" />
+          <entry key="Ruby" value="48" />
+          <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Gemfile" value="2" />
+          <entry key="Gemfile" value="31" />
+          <entry key="erb" value="198" />
+          <entry key="html" value="6" />
+          <entry key="rails" value="18" />
+          <entry key="rb" value="1823" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Ruby" value="2" />
+          <entry key="HTML" value="6" />
+          <entry key="RHTML" value="198" />
+          <entry key="Ruby" value="1872" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Slices/db/migrate/20190515034804_create_slices.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Slices/app/controllers/application_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Slices/app/views/slices/new.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Slices/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Slices/app/views/slices/show.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Slices/app/models/slice.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Slices/app/controllers/slices_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>RM</find>
+      <find>gem</find>
+      <find>mag</find>
+      <find>rmagick</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Slices" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/JPGproject/Gemfile" />
+        <option value="$PROJECT_DIR$/Slices/app/views/slice/new.html" />
+        <option value="$PROJECT_DIR$/Slices/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/Slices/app/views/slice/new.html.erb" />
+        <option value="$PROJECT_DIR$/Slices/app/controllers/slice_controller.rb" />
+        <option value="$PROJECT_DIR$/Slices/app/views/slices/new.html.erb" />
+        <option value="$PROJECT_DIR$/Slices/config/application.rb" />
+        <option value="$PROJECT_DIR$/Slices/bin/rails" />
+        <option value="$PROJECT_DIR$/Slices/Gemfile" />
+        <option value="$PROJECT_DIR$/Slices/app/views/slices/show.html.erb" />
+        <option value="$PROJECT_DIR$/Slices/db/schema.rb" />
+        <option value="$PROJECT_DIR$/Slices/app/models/slice.rb" />
+        <option value="$PROJECT_DIR$/Slices/app/controllers/slices_controller.rb" />
+        <option value="$PROJECT_DIR$/Slices/config/routes.rb" />
       </list>
     </option>
   </component>
@@ -69,17 +279,18 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/J{G/package.json" />
       <path value="$PROJECT_DIR$/Slices/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2095" />
-    <option name="y" value="36" />
-    <option name="width" value="1786" />
-    <option name="height" value="1044" />
+    <option name="x" value="39" />
+    <option name="y" value="23" />
+    <option name="width" value="1635" />
+    <option name="height" value="954" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -96,20 +307,75 @@
             <path>
               <item name="JPGproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="JPGproject" type="462c0819:PsiDirectoryNode" />
-              <item name="J{G" type="462c0819:PsiDirectoryNode" />
+              <item name="Slices" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JPGproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="JPGproject" type="462c0819:PsiDirectoryNode" />
-              <item name="J{G" type="462c0819:PsiDirectoryNode" />
+              <item name="Slices" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JPGproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="JPGproject" type="462c0819:PsiDirectoryNode" />
-              <item name="J{G" type="462c0819:PsiDirectoryNode" />
+              <item name="Slices" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPGproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPGproject" type="462c0819:PsiDirectoryNode" />
+              <item name="Slices" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPGproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPGproject" type="462c0819:PsiDirectoryNode" />
+              <item name="Slices" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPGproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPGproject" type="462c0819:PsiDirectoryNode" />
+              <item name="Slices" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPGproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPGproject" type="462c0819:PsiDirectoryNode" />
+              <item name="Slices" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="slices" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPGproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPGproject" type="462c0819:PsiDirectoryNode" />
+              <item name="Slices" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPGproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPGproject" type="462c0819:PsiDirectoryNode" />
+              <item name="Slices" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="locales" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPGproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPGproject" type="462c0819:PsiDirectoryNode" />
+              <item name="Slices" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JPGproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JPGproject" type="462c0819:PsiDirectoryNode" />
+              <item name="Slices" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="migrate" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -118,11 +384,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Slices/app/views/slices" />
+      <recent name="$PROJECT_DIR$/Slices/app/controllers" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -148,21 +421,43 @@
       <option name="presentableId" value="Default" />
       <updated>1557862749648</updated>
       <workItem from="1557862750833" duration="1328000" />
-      <workItem from="1557868938500" duration="1021000" />
+      <workItem from="1557868938500" duration="16485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2349000" />
+    <option name="totallyTimeSpent" value="17813000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2095" y="36" width="1786" height="1044" extended-state="0" />
+    <frame x="2913" y="23" width="1271" height="1044" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25286698" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13506916" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32912722" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3295583" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18799546" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32912722" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -177,7 +472,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -190,6 +485,168 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/JPGproject/Gemfile" />
+    <entry file="file://$PROJECT_DIR$/Slices/app/views/layouts/mailer.text.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/app/views/layouts/mailer.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/config/environments/development.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/config/boot.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/config/environments/test.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/config/environment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/Rakefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/config.ru">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/.ruby-version">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/bin/rails">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/bin/rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="191" column="8" selection-start-line="191" selection-start-column="8" selection-end-line="191" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/config/initializers/application_controller_renderer.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/db/migrate/20190515012436_create_slices.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/db/migrate/20190515034804_create_slices.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/app/models/application_record.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/db/schema.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/app/views/slices/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/app/views/slices/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/app/models/slice.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/app/controllers/slices_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

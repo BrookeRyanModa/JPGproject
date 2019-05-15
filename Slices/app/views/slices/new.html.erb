@@ -1,0 +1,16 @@
+
+<%= form_with scope: :slices, url: slices_path, local: true do |form| %>
+  <p>
+    <%= form.label :season %><br>
+    <%= form.text_field :season %>
+  </p>
+
+  <p>
+    <%= form.label :collections %><br>
+    <%= form.text_area :collections %>
+  </p>
+
+  <p>
+    <%= form.submit %>
+  </p>
+<% end %>
